@@ -16,16 +16,23 @@ Styled with **Tailwind CSS** and powered by vanilla JavaScript for a smooth, mod
 
 ## 🛠 How to Use
 
-1. Type or paste your URL/text into the input box.
-2. Click **Generate**.
-3. View the QR code just below the button.
+1. Type or paste your URL/text into the input box.  
+2. Click **Generate**.  
+3. View the QR code just below the button.  
 4. Click **Download QR Code** to save the image instantly.
+
+---
+
+## 🔗 Live Demo
+
+Check it out live here:  
+[https://shahab-27.github.io/QR-generator/](https://shahab-27.github.io/QR-generator/)
 
 ---
 
 ## 🔧 Built With
 
-- HTML5 & JavaScript (ES6+)
+- HTML5 &  JavaScript (ES6+)
 - [Tailwind CSS](https://tailwindcss.com/) — Utility-first CSS framework
 - [QRServer API](https://goqr.me/api/) — Free QR code generation service
 
